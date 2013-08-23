@@ -1,0 +1,22 @@
+<Environment>
+	<Variable>
+		<Name>Varfrom</Name>
+		<Value>gdss.configuration@novartis.com</Value>
+	</Variable>
+	<Variable>
+		<Name>VarTo</Name>
+		<Value>aparna.mangari@novartis.com;manohar.reddy@novartis.com</Value>
+	</Variable>
+	<Variable>
+		<Name>VarSubject</Name>
+		<Value>Execution Status Report</Value>
+	</Variable>
+	<Variable>
+		<Name>VarBodyTest</Name>
+		<Value>Attached is the uploaded IN's status report. Kindly Review</Value>
+	</Variable>
+	<Variable>
+		<Name>VarCC</Name>
+		<Value>Arshad.Nehaljamali@novartis.com</Value>
+	</Variable>
+</Environment>
